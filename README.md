@@ -36,4 +36,4 @@ The IPL generates billions in revenue and massive fan engagement, yet teams, ana
 9. 🌟 How do player achievements (Orange & Purple Cap winners) change across seasons?
  
 7. Screenshots / Demos 
-📊 Season-wise leaderboard snapshot - https://github.com/minakshishuklaa/IPL-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+📊 Season-wise leaderboard snapshot - ![Dashboard Preview].(https://github.com/minakshishuklaa/IPL-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png).
