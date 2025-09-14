@@ -47,6 +47,4 @@ Key Questions such as:
 ---
 
 8. Screenshots / Demos 
-📊 Season-wise leaderboard snapshot - 
-
-👉 Would you like me to also design a creative flow of visuals (like a storyline/flowchart) for the IPL dashboard the way it was structured for the Ski Dashboard in your screenshots?
+📊 Season-wise leaderboard snapshot - https://github.com/minakshishuklaa/IPL-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
