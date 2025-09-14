@@ -22,14 +22,8 @@ Data on all IPL matches from 2008–2025, including details on teams, players, m
 5. Features / Highlights
 Business Problem
 The IPL generates billions in revenue and massive fan engagement, yet teams, analysts, and sponsors require insights into performance, fan behavior, and market trends.
-Key Questions such as:
 
- Perfect 👍 Based on the IPL Dashboard you provided (2008–2025), here are some Key Questions you can frame (exactly in the style used for dashboards):
-
-
----
-
-🔑 Key Questions for IPL Dashboard (2008–2025)
+6.🔑 Key Questions for IPL Dashboard (2008–2025)
 
 1. 🏆 Which team won the IPL 2025 season and who was the runner-up?
 2. 📊 How many total runs, fours, and sixes were scored in the 2025 season?
@@ -40,11 +34,6 @@ Key Questions such as:
 7. 🔻 Which teams struggled the most in 2025 (lowest wins/loss record)?
 8. 🔎 Which teams were the most consistent performers across the 2008–2025 seasons?
 9. 🌟 How do player achievements (Orange & Purple Cap winners) change across seasons?
-10.🔍 Historical Trends – Analysts and fans can understand the evolution of IPL over 17 years.
-
-
-
----
-
-8. Screenshots / Demos 
+ 
+7. Screenshots / Demos 
 📊 Season-wise leaderboard snapshot - https://github.com/minakshishuklaa/IPL-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
